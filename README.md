@@ -2,6 +2,7 @@ How to initialize typescript project
 This guide explains how to initialize and configure a typescript project from scratch.
 
 Step 1: Initialize Project
+
 npm init -y or npm init
 
 Step 2: Install devDependencies
